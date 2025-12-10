@@ -1,0 +1,14 @@
+[
+    {
+        "company": "Capital One",
+        "role": "Software Developer Intern",
+        "year": "May 2025 - Aug 2025",
+        "details": "I built a semantic search engine in AWS to process queries for 2.5 million documents."
+    },
+    {
+        "company": "Capital One",
+        "role": "Software Developer Intern",
+        "year": "May 2024 - Aug 2024",
+        "details": "I built a developer tool to help manage 100,000+ Jira Tickets"
+    }
+]

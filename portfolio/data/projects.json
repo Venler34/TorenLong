@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Ray Tracer",
+        "description": "I built a ray tracer from scratch implementing Phong Shading, reflection, refraction, and shadow rays.",
+        "image": "/RayTracerImage.png",
+        "attributes": [
+            "C++",
+            "Computer Graphics",
+            "Linear Algebra"
+        ],
+        "links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/user/project1"
+            }
+        ]
+    }
+]

@@ -17,12 +17,12 @@ export default function Home() {
 
           {/* Profile Image */}
           <div className="flex-shrink-0 w-48 h-48 lg:w-64 lg:h-64 relative rounded-full overflow-hidden shadow-xl ring-2 ring-blue-200/40">
-            {/* <Image
-              src="/profile.jpg"
-              alt="Your Name"
+            <Image
+              src="/MainPhoto.jpg"
+              alt="Toren Long"
               fill
               className="object-cover"
-            /> */}
+            />
           </div>
         </div>
       </div>
